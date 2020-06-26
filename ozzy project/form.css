@@ -14,6 +14,11 @@
     color: green;
     padding-bottom: 10px;
 }
+.container span {
+    margin: -30px 20px 0 0;
+    color: blue;
+    float: right;
+}
 /* Styling the form element */
 form {
     background-color: rgba(0, 255, 255, .5);
